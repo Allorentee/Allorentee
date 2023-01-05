@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro Llorente</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<div align='center'>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/allorentee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allorentee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-llorente-0a2778150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-llorente-0a2778150/" height="30" width="40" /></a>
-</p></div>
-
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://ipfs.filebase.io/ipfs/QmU29qo6sZD2EJoQsQ8zNSaXEv28hZ8XbxEJNq8CfDjbQp)" alt="bootstrap"/>
 <div align='center'>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
