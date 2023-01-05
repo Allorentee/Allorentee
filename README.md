@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro Llorente</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://ipfs.filebase.io/ipfs/QmU29qo6sZD2EJoQsQ8zNSaXEv28hZ8XbxEJNq8CfDjbQp)" alt="bootstrap"/>
+<img src="https://ipfs.filebase.io/ipfs/QmU29qo6sZD2EJoQsQ8zNSaXEv28hZ8XbxEJNq8CfDjbQp" alt="Lofi-code"/>
 <div align='center'>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
