@@ -45,9 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
