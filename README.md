@@ -45,6 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11185156594)
+###
+
+<h2 align="left">I code with</h2>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11185156594)
+
